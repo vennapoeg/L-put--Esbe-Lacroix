@@ -1,0 +1,15 @@
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.csproj.AssemblyReference.cache
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.AssemblyInfoInputs.cache
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.AssemblyInfo.cs
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.csproj.CoreCompileInputs.cache
+/Users/esbelacroix/Projects/Löputöö/Löputöö/bin/Debug/net6.0/Löputöö
+/Users/esbelacroix/Projects/Löputöö/Löputöö/bin/Debug/net6.0/Löputöö.deps.json
+/Users/esbelacroix/Projects/Löputöö/Löputöö/bin/Debug/net6.0/Löputöö.runtimeconfig.json
+/Users/esbelacroix/Projects/Löputöö/Löputöö/bin/Debug/net6.0/Löputöö.dll
+/Users/esbelacroix/Projects/Löputöö/Löputöö/bin/Debug/net6.0/Löputöö.pdb
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.dll
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/refint/Löputöö.dll
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.pdb
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/Löputöö.genruntimeconfig.cache
+/Users/esbelacroix/Projects/Löputöö/Löputöö/obj/Debug/net6.0/ref/Löputöö.dll
